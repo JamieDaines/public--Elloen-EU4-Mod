@@ -1,0 +1,39 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+########################################
+# ERNDELZEIC                           #
+########################################
+
+northern_erndelzeic_region = {
+	areas = {
+		Avernalace_area
+		Anazarbus_area
+		Averterox_area
+
+	}
+}
+
+central_erndelzeic_region = {
+	areas = {
+		atavera_area
+		herculea_area
+		trajectum_area
+		
+	}
+}
+
+
+south_erndelzeic_region = {
+	areas = {
+		eastern_diamendelt_area
+		luncitunti_area
+		western_diamendelt_area
+		
+	}
+
+}
+

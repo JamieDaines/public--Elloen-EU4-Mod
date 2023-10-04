@@ -1,0 +1,88 @@
+# A province can only belong to one area!
+
+#Sea Areas:
+#No restriction on size.
+
+########################################
+# Erndelzeic			 			   #
+########################################
+
+avernalace_area = { #2
+	5002 5003
+}
+
+anazarbus_area = {#3
+	2 5 5000
+}
+
+cantabrigia_area = {#3
+	3 4 5001
+}
+
+averterox_area = {#4
+	6 7 8 9 11
+}
+
+atavera_area = {#5
+	13 14 17 5005 5006
+}
+
+herculea_area = {#3
+	18 20 21
+}
+
+trajectum_area = {#3
+	19 22 5004
+}
+
+eastern_diamendelt_area = {#3
+	24 25 26
+}
+
+luncitunti_area = {#3
+	27 33 34
+}
+
+western_diamendelt_area = {#3
+	28 29 30
+}
+
+mogontiacum_area = {#4
+	5031 5032 5033 5034
+}
+
+ostia_area = {#4
+	5035 5037 5038 5039
+}
+
+cascantum_area = {#4
+	5036 5044 5045 5046
+}
+
+veralamium_area = {#4
+	5041 5040 5043 5042
+}
+
+snokde_area = {#4
+	5025 5026 5027 5028
+}
+
+dyrrhachium_area = {#5
+	5049 5048 5047 5050 5065
+}
+
+nova_area = {#4
+	5062 5052 5051 5064
+}
+
+bremetennacum_area = {#5
+	5061 5063 5053 5054 5060
+}
+
+scupi_area = {#5
+	5056 5055 5057 5059 5058
+}
+
+ad_iuvense_area = {#5
+	5093 5090 5091 5092 5094
+}

@@ -1,0 +1,13 @@
+owner = ATB
+controller = ATB
+add_core = ATB
+culture = ataveran
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+is_city = yes
+discovered_by = eastern
+discovered_by = western

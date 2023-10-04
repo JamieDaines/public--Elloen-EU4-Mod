@@ -1,0 +1,1 @@
+replace_path = "history/provinces/28-Diamendelt III.txt"

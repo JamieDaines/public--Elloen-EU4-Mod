@@ -1,0 +1,43 @@
+#Example: Large parts of Africa and south east Asia
+tropical = {
+	
+}
+
+arid = {
+	
+}
+
+arctic = {
+	
+}
+
+mild_winter = {
+	
+}
+
+normal_winter = {
+	# Northern Erndelziec
+	1 2 3 4 5 6 7 8 9 10 11 12 16 17 22 23 24 25 27 28 29 34 35 36 37 
+}
+
+severe_winter = {
+	
+}
+
+impassable = {
+	5226 5227 5228
+}
+
+mild_monsoon = {
+	
+}
+
+normal_monsoon = {
+	
+}
+
+severe_monsoon = {
+	
+}
+
+equator_y_on_province_image = 656
